@@ -1,0 +1,6 @@
+Technologies Used
+Power BI Desktop
+DAX (Data Analysis Expressions)
+Power Query
+CSV Dataset
+GitHub
